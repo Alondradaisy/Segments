@@ -4,7 +4,7 @@ A structured method of sharing centered around 4 segments: Born from the desire 
 
 ![Portrait](https://segments-imgs.s3.us-west-1.amazonaws.com/rooftop.jpeg)
 
-Segments has become a guide to a weekly practice of sharing that weaves nourishing neuroplasticity with intentional sharing. Four day of the week are dedicated to sharing int he context of each of the four segments.
+Segments has become a guide to a weekly practice of sharing that weaves nourishing neuroplasticity with intentional sharing. Four days of the week are dedicated to sharing intentionally in the context of each of the four segments.
 
 ![Growing](https://segments-imgs.s3.us-west-1.amazonaws.com/growing.jpg)
 
@@ -21,5 +21,8 @@ As each month comes to an end, I'll share two documentation pieces as part of my
 
 1. The **Build** segment Show&Tell
 - A framework comprised of metrics to guide multi-applicable 4 week builds. I'll share the metrics weekly & by the end of the month, it'll be a Show&Tell. 
+- 
 2. Month-long roundup documentation 
 - A roundup documentation piece that captures all shares from each month. The roundup will include the links, reads, listens, etc. as a reference point.
+
+Find out more about Segments here: https://medium.com/@daisydocuments/segments-grow-learn-build-play-7d62ecbdb4fd
