@@ -19,10 +19,18 @@ Segments has become a guide to a weekly practice of sharing that weaves nourishi
 
 As each month comes to an end, I'll share two documentation pieces as part of my commitment to sharing Segments as a process:
 
-1. The **Build** segment Show&Tell
-- A framework comprised of metrics to guide multi-applicable 4 week builds. I'll share the metrics weekly & by the end of the month, it'll be a Show&Tell. 
-- 
-2. Month-long roundup documentation 
-- A roundup documentation piece that captures all shares from each month. The roundup will include the links, reads, listens, etc. as a reference point.
+⭐️ Build Segment
+- A framework comprised of metrics to guide multi-applicable 4 week builds.
+ 
+[Build 01: Segment Schema](https://medium.com/@daisydocuments/build-segment-schema-5211efcef42f)
 
-Find out more about Segments here: https://medium.com/@daisydocuments/segments-grow-learn-build-play-7d62ecbdb4fd
+[Build 02: Link Loop](https://medium.com/@daisydocuments/build-link-loop-999313d979c1)
+
+
+⭐️ Segment Documentation 
+- A roundup documentation piece that captures all shares from each month. The roundup will include the links, reads, listens, etc. as a reference point. 
+
+[View here](https://github.com/Alondradaisy/Segments-Documentation)
+
+
+Learn more about Segments here: https://medium.com/@daisydocuments/segments-grow-learn-build-play-7d62ecbdb4fd
