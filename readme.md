@@ -26,6 +26,12 @@ As each month comes to an end, I'll share two documentation pieces as part of my
 
 [Build 02: Link Loop](https://medium.com/@daisydocuments/build-link-loop-999313d979c1)
 
+[Build 03: Shop Rutina](https://medium.com/@daisydocuments/build-shop-rutina-5c31187eeaa6)
+
+[Build 04: AWS Learning Approaches](https://medium.com/@daisydocuments/aws-learning-approaches-774b4df5d0fe)
+
+[Build 05: Routine Stacking](https://medium.com/create-rutina/build-routine-stacking-f9321e520d39)
+
 
 ⭐️ Segment Documentation 
 - A roundup documentation piece that captures all shares from each month. The roundup will include the links, reads, listens, etc. as a reference point. 
