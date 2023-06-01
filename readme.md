@@ -1,10 +1,10 @@
 # Segments: Grow | Learn | Build | Play
 
-A structured method of sharing centered around 4 segments: Born from the desire the engage with social mediums intentionally while learning & sharing to nourish neuroplasticity. 
+A structured system of sharing centered around 4 foundational values.
 
 ![Portrait](https://segments-imgs.s3.us-west-1.amazonaws.com/rooftop.jpeg)
 
-Segments has become a guide to a weekly practice of sharing that weaves nourishing neuroplasticity with intentional sharing. Four days of the week are dedicated to sharing intentionally in the context of each of the four segments.
+Born from the desire to engage while learning & sharing to nourish neuroplasticity. 
 
 ![Growing](https://segments-imgs.s3.us-west-1.amazonaws.com/growing.jpg)
 
@@ -16,8 +16,6 @@ Segments has become a guide to a weekly practice of sharing that weaves nourishi
 
 
 ![Playing](https://segments-imgs.s3.us-west-1.amazonaws.com/playing.jpg)
-
-As each month comes to an end, I'll share two documentation pieces as part of my commitment to sharing Segments as a process:
 
 ⭐️ Build Segment
 - A framework comprised of metrics to guide multi-applicable 4 week builds.
