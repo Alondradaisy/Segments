@@ -34,9 +34,6 @@ As each month comes to an end, I'll share two documentation pieces as part of my
 
 
 ⭐️ Segment Documentation 
-- A roundup documentation piece that captures all shares from each month. The roundup will include the links, reads, listens, etc. as a reference point. 
+- A roundup documentation piece that captures links, reads, listens, etc. as a reference point. 
 
-[View here](https://github.com/Alondradaisy/Segments-Documentation)
-
-
-Learn more about Segments here: https://medium.com/@daisydocuments/segments-grow-learn-build-play-7d62ecbdb4fd
+[Take me there](https://github.com/Alondradaisy/Segments-Documentation)
